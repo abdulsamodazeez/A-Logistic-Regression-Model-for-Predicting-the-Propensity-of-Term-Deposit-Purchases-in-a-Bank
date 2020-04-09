@@ -1,0 +1,1 @@
+# A-Logistic-Regression-Model-for-Predicting-the-Propensity-of-Term-Deposit-Purchases-in-a-Bank
